@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **khlaedmohamedeldsoky@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YH9BmbE8lJs3dts5YBNT_EHydkFk0jC9/view?usp=drive_link](https://drive.google.com/file/d/1YH9BmbE8lJs3dts5YBNT_EHydkFk0jC9/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YH9BmbE8lJs3dts5YBNT_EHydkFk0jC9/view?usp=drive_link)
 
 <p align="left">
 </p>
