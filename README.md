@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Eldsoky</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h2 align="center">DevOps Engineer</h2>
 
-🚀 ***About Me*** :
+🚀 **About Me** :
 - **I am a Junior DevOps and Cloud Engineer with experience in cloud infrastructure management, automation, and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins , Argo CD, Ansible,Terraform and continuously learning..**
 
 - 💬 Ask me about **DevOps**
