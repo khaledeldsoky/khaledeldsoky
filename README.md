@@ -3,13 +3,12 @@
 
 🚀 **About Me** :
 - **I am a Junior DevOps and Cloud Engineer with experience in cloud infrastructure management, automation, and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins , Argo CD, Ansible,Terraform and continuously learning..**
-- 
+
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **khlaedmohamedeldsoky@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YH9BmbE8lJs3dts5YBNT_EHydkFk0jC9/view?usp=drive_link)
-
 
 
 <p align="left">
